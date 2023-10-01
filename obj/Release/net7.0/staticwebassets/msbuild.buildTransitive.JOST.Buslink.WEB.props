@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JOST.Buslink.WEB.props" />
+</Project>

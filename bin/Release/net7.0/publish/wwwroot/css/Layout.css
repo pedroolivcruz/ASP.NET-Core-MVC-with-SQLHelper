@@ -1,0 +1,325 @@
+﻿.page-container {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index:0;
+}
+
+.side-bar {
+    width: 250px;
+    height: 100%;
+    top: 0px;
+    left: -250px;
+    background-color: whitesmoke;
+    z-index: 50;
+    position: absolute;
+    transition: all 0.25s;
+    -webkit-transition: all 0.25s;
+}
+
+    .side-bar.enter {
+        opacity: 1;
+        left: 0;
+    }
+
+
+
+.side-bar-header {
+    text-decoration: none;
+    height: 90px;
+    width: 100%;
+    border: none;
+    color: white;
+    display: flex;
+    justify-content: left;
+    padding-left: 25px;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.exit-container {
+    position: absolute;
+    right: 15px;
+    height: 90px;
+    color: white;
+}
+
+.exit {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    font-size: 3em;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.25s ease-in-out;
+}
+
+    .exit:hover {
+        font-weight: 900;
+        color:orange;
+    }
+
+.title-container {
+    height: 90px;
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.title-container-2 {
+    height: 90px;
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.button-container {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.button-content {
+    height: 60px;
+    width: 100%;
+    border: none;
+    color: black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+    .button-content:hover {
+        background-color: rgb(20,20,20);
+        color: white;
+    }
+
+.expanded-bar {
+    height: 100%;
+    position: fixed;
+    left: -250px;
+    top: 0px;
+    width: 250px;
+    background-color: rgb(20,20,20);
+    flex-direction: column;
+    z-index: 10;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+
+.expanded-bar.enter{
+    left:250px;
+}
+
+.opacity-container {
+    height: 100%;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: calc(100vw);
+    background-color: rgba(0, 0, 0, 0.5);
+    visibility:hidden;
+    z-index: 5;
+
+}
+
+.button-expanded-bar {
+    text-decoration: none;
+    height: 60px;
+    width: 100%;
+    border: none;
+    color: white;
+    background-color: transparent;
+    justify-content:left;
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+    .button-expanded-bar:hover {
+        font-weight: 700;
+        color:orange;
+    }
+
+.button-icon-2 {
+    margin-left: 85px;
+    transition-property: transform;
+    transition: 0.5s ease-in-out;
+}
+
+.button-icon-1 {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.button-expand {
+    color: white;
+    position: fixed;
+    top: 0px;
+    right: calc(100vw - 60px);
+    border: none;
+    height: 90px;
+    width: 40px;
+    font-weight:500;
+    background-color: transparent;
+    z-index: 0;
+}
+
+
+.button-expand-content {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.button-expand:hover {
+    font-weight: 900;
+    width: 42px;
+    right: calc(100vw - 62px);
+    color: orange;
+}
+
+.center-default {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-image: linear-gradient(to top,rgb(8,28,108), rgb(28,58,138));
+    background-image: -moz-linear-gradient(to top,rgb(8,28,108), rgb(28,58,138));
+    background-image: -webkit-linear-gradient(to top,rgb(8,28,108), rgb(28,58,138));
+    visibility:hidden;
+}
+
+.loader-container-default {
+    display: flex;
+    height: 100px;
+    margin-top: calc((100vh - 150px)/2);
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.message-container-default {
+    display: flex;
+    height: 50px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: white;
+}
+
+.lds-ring {
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+}
+
+    .lds-ring div {
+        box-sizing: border-box;
+        display: block;
+        position: absolute;
+        width: 64px;
+        height: 64px;
+        margin: 10px;
+        border: 10px solid #fff;
+        border-radius: 50%;
+        animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+        -webkit-animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+        border-color: #fff transparent transparent transparent;
+    }
+
+        .lds-ring div:nth-child(1) {
+            animation-delay: -0.45s;
+            -webkit-animation-delay: -0.45s;
+        }
+
+        .lds-ring div:nth-child(2) {
+            animation-delay: -0.3s;
+            -webkit-animation-delay: -0.3s;
+        }
+
+        .lds-ring div:nth-child(3) {
+            animation-delay: -0.15s;
+            -webkit-animation-delay: -0.15s;
+        }
+
+@-webkit-keyframes lds-ring {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+
+@keyframes lds-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+
+
+
+/* RESPOSIVIDADE */
+@media only screen and (max-width:640px) {
+    .expanded-bar {
+        width: 230px;
+        left: -230px;
+    }
+
+    .side-bar {
+        width: 230px;
+        left: -230px;
+    }
+
+    .expanded-bar.enter {
+        left: 230px;
+    }
+
+    .button-icon-2 {
+        margin-left: 65px;
+    }
+}
+

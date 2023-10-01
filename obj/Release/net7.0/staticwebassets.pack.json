@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\css\\AcessoNegado.css",
+      "PackagePath": "staticwebassets\\css\\AcessoNegado.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\css\\Aviso.css",
+      "PackagePath": "staticwebassets\\css\\Aviso.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\css\\Cadastros.css",
+      "PackagePath": "staticwebassets\\css\\Cadastros.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\css\\Dashboards.css",
+      "PackagePath": "staticwebassets\\css\\Dashboards.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\css\\DataTable.css",
+      "PackagePath": "staticwebassets\\css\\DataTable.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\css\\Layout.css",
+      "PackagePath": "staticwebassets\\css\\Layout.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\css\\Loader.css",
+      "PackagePath": "staticwebassets\\css\\Loader.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\css\\NovoCadastro.css",
+      "PackagePath": "staticwebassets\\css\\NovoCadastro.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\css\\Relatorios.css",
+      "PackagePath": "staticwebassets\\css\\Relatorios.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\js\\Index.js",
+      "PackagePath": "staticwebassets\\js\\Index.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\js\\Layout.js",
+      "PackagePath": "staticwebassets\\js\\Layout.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\js\\apexcharts.js",
+      "PackagePath": "staticwebassets\\js\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\js\\jquery.table2excel.js",
+      "PackagePath": "staticwebassets\\js\\jquery.table2excel.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\js\\plotly.min.js",
+      "PackagePath": "staticwebassets\\js\\plotly.min.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\js\\printThis.js",
+      "PackagePath": "staticwebassets\\js\\printThis.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\Estrutua_Traseira.jpeg",
+      "PackagePath": "staticwebassets\\resources\\Estrutua_Traseira.jpeg"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\Estrutura_Frontal.jpeg",
+      "PackagePath": "staticwebassets\\resources\\Estrutura_Frontal.jpeg"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\buslink-removebg-preview.png",
+      "PackagePath": "staticwebassets\\resources\\buslink-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\checked.png",
+      "PackagePath": "staticwebassets\\resources\\checked.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\desmarcado (1).png",
+      "PackagePath": "staticwebassets\\resources\\desmarcado (1).png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\documento-de-texto.png",
+      "PackagePath": "staticwebassets\\resources\\documento-de-texto.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\icon-conectasys.ico",
+      "PackagePath": "staticwebassets\\resources\\icon-conectasys.ico"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\logo-removebg-preview.png",
+      "PackagePath": "staticwebassets\\resources\\logo-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\p1.png",
+      "PackagePath": "staticwebassets\\resources\\p1.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\p1s.png",
+      "PackagePath": "staticwebassets\\resources\\p1s.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\p2.png",
+      "PackagePath": "staticwebassets\\resources\\p2.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\p2s.png",
+      "PackagePath": "staticwebassets\\resources\\p2s.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\p3.png",
+      "PackagePath": "staticwebassets\\resources\\p3.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\p3s.png",
+      "PackagePath": "staticwebassets\\resources\\p3s.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\p4.png",
+      "PackagePath": "staticwebassets\\resources\\p4.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\p4s.png",
+      "PackagePath": "staticwebassets\\resources\\p4s.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\p5.png",
+      "PackagePath": "staticwebassets\\resources\\p5.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\p5s.png",
+      "PackagePath": "staticwebassets\\resources\\p5s.png"
+    },
+    {
+      "Id": "C:\\ConectaSys\\Projetos\\Conectasys.Portal\\wwwroot\\resources\\seta-direita.png",
+      "PackagePath": "staticwebassets\\resources\\seta-direita.png"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Conectasys.Portal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Conectasys.Portal.props",
+      "PackagePath": "build\\Conectasys.Portal.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Conectasys.Portal.props",
+      "PackagePath": "buildMultiTargeting\\Conectasys.Portal.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Conectasys.Portal.props",
+      "PackagePath": "buildTransitive\\Conectasys.Portal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

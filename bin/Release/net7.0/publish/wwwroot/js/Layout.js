@@ -1,0 +1,93 @@
+var sidebar = document.querySelector('.side-bar');
+var opacityContainer = document.querySelector('.opacity-container');
+var expandbarRelatorios = document.querySelector('#expandedBarRelatorios');
+var expandbarCadastros = document.querySelector('#expandedBarCadastros');
+var expandbarChecklists = document.querySelector('#expandedBarChecklists');
+var iconExpandRelatorios = document.querySelector('#iconExpandRelatorios');
+var iconExpandChecklists = document.querySelector('#iconExpandChecklists');
+var iconExpandCadastros = document.querySelector('#iconExpandCadastros');
+var btnCadastros = document.querySelector('#btnCadastros');
+var btnRelatorios = document.querySelector('#btnRelatorios');
+var btnChecklists = document.querySelector('#btnChecklists');
+var btnExpand = document.querySelector('#btnExpand');
+document.querySelector('#btnExpand').addEventListener("click", event => {
+    event.preventDefault();
+    sidebar.classList.add('enter');
+    opacityContainer.setAttribute("style", "visibility:visible;");
+});
+document.querySelector('#exitMenu').addEventListener("click", event => {
+    event.preventDefault();
+    expandbarCadastros.classList.remove('enter');
+    expandbarRelatorios.classList.remove('enter');
+    expandbarChecklists.classList.remove('enter');
+    iconExpandCadastros.setAttribute("style", "transform:rotate(360deg);");
+    iconExpandRelatorios.setAttribute("style", "transform:rotate(360deg);");
+    iconExpandChecklists.setAttribute("style", "transform:rotate(360deg);");
+    btnCadastros.setAttribute("style", "color:black; background-color:trasparent;");
+    btnChecklists.setAttribute("style", "color:black; background-color:trasparent;");
+    btnRelatorios.setAttribute("style", "color:black; background-color:trasparent;");
+    sidebar.classList.remove('enter');
+    opacityContainer.setAttribute("style", "visibility:hidden;");
+    btnExpand.setAttribute("style", "visibility:visible;");
+});
+btnCadastros.addEventListener("click", event => {
+    event.preventDefault();
+    btnExpand.setAttribute("style", "visibility:hidden;");
+    expandbarCadastros.classList.add('enter');
+    expandbarRelatorios.classList.remove('enter');
+    expandbarChecklists.classList.remove('enter');
+    iconExpandCadastros.setAttribute("style", "transform:rotate(180deg);");
+    btnRelatorios.setAttribute("style", "color:black; background-color:transparent;");
+    btnCadastros.setAttribute("style", "color:white; background-color:rgb(20, 20, 20);");
+    btnChecklists.setAttribute("style", "color:black; background-color:transparent;");
+    opacityContainer.setAttribute("style", "visibility:visible;");
+});
+document.querySelector('#exitCA').addEventListener("click", event => {
+    event.preventDefault();
+    btnExpand.setAttribute("style", "visibility:visible;");
+    btnCadastros.setAttribute("style", "color:black; background-color:transparent;");
+    iconExpandCadastros.setAttribute("style", "transform:rotate(360deg);");
+    expandbarCadastros.classList.remove('enter');
+});
+btnRelatorios.addEventListener("click", event => {
+    event.preventDefault();
+    btnExpand.setAttribute("style", "visibility:hidden");
+    expandbarCadastros.classList.remove('enter');
+    expandbarRelatorios.classList.add('enter');
+    expandbarChecklists.classList.remove('enter');
+    iconExpandCadastros.setAttribute("style", "transform:rotate(360deg);");
+    iconExpandRelatorios.setAttribute("style", "transform:rotate(180deg);");
+    iconExpandChecklists.setAttribute("style", "transform:rotate(360deg);");
+    btnCadastros.setAttribute("style", "color:black; background-color:transparent;");
+    btnRelatorios.setAttribute("style", "color:white; background-color:rgb(20, 20, 20);");
+    btnChecklists.setAttribute("style", "color:black; background-color:transparent;");
+    opacityContainer.setAttribute("style", "visibility:visible;");
+});
+document.querySelector('#exitRL').addEventListener("click", event => {
+    event.preventDefault();
+    btnExpand.setAttribute("style", "visibility:visible;");
+    btnRelatorios.setAttribute("style", "color:black; background-color:transparent;");
+    iconExpandRelatorios.setAttribute("style", "transform:rotate(360deg);");
+    expandbarRelatorios.classList.remove('enter');
+});
+btnChecklists.addEventListener("click", event => {
+    event.preventDefault();
+    btnExpand.setAttribute("style", "visibility:hidden");
+    expandbarCadastros.classList.remove('enter');
+    expandbarRelatorios.classList.remove('enter');
+    expandbarChecklists.classList.add('enter');
+    iconExpandCadastros.setAttribute("style", "transform:rotate(360deg);");
+    iconExpandRelatorios.setAttribute("style", "transform:rotate(360deg);");
+    iconExpandChecklists.setAttribute("style", "transform:rotate(180deg);");
+    btnCadastros.setAttribute("style", "color:black; background-color:transparent;");
+    btnChecklists.setAttribute("style", "color:white; background-color:rgb(20, 20, 20);");
+    btnRelatorios.setAttribute("style", "color:black; background-color:transparent;");
+    opacityContainer.setAttribute("style", "visibility:visible;");
+});
+document.querySelector('#exitCL').addEventListener("click", event => {
+    event.preventDefault();
+    btnExpand.setAttribute("style", "visibility:visible;");
+    btnChecklists.setAttribute("style", "color:black; background-color:transparent;");
+    iconExpandChecklists.setAttribute("style", "transform:rotate(360deg);");
+    expandbarChecklists.classList.remove('enter');
+});

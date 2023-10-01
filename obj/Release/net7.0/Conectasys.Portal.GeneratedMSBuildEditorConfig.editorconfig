@@ -1,0 +1,153 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Conectasys.Portal
+build_property.RootNamespace = Conectasys.Portal
+build_property.ProjectDir = C:\ConectaSys\Projetos\Conectasys.Portal\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\ConectaSys\Projetos\Conectasys.Portal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/AcessoNegado/AcessoNegado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNlc3NvTmVnYWRvXEFjZXNzb05lZ2Fkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/ChecklistsMontagem/Checklists.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tsaXN0c01vbnRhZ2VtXENoZWNrbGlzdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/ChecklistsMontagem/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tsaXN0c01vbnRhZ2VtXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/ChecklistsMontagem/Novo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tsaXN0c01vbnRhZ2VtXE5vdm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/ChecklistsSoldagem/Checklists.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tsaXN0c1NvbGRhZ2VtXENoZWNrbGlzdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/ChecklistsSoldagem/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tsaXN0c1NvbGRhZ2VtXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/ChecklistsSoldagem/Novo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tsaXN0c1NvbGRhZ2VtXE5vdm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Componentes/ComponentesCadastrados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZXNcQ29tcG9uZW50ZXNDYWRhc3RyYWRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Componentes/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZXNcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Componentes/Novo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZXNcTm92by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Cordoes/CordoesCadastrados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29yZG9lc1xDb3Jkb2VzQ2FkYXN0cmFkb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Cordoes/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29yZG9lc1xFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Cordoes/Novo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29yZG9lc1xOb3ZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/DashboardMontagem/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkTW9udGFnZW1cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Eps/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXBzXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Eps/EpsCadastradas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXBzXEVwc0NhZGFzdHJhZGFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Eps/Nova.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXBzXE5vdmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/FotoTorques/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b1RvcnF1ZXNcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/FotoTorques/FotosCadastradas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b1RvcnF1ZXNcRm90b3NDYWRhc3RyYWRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/FotoTorques/Novo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b1RvcnF1ZXNcTm92by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Produtos/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Produtos/Novo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcTm92by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Produtos/ProdutosCadastrados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcUHJvZHV0b3NDYWRhc3RyYWRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/RelatoriosMontagem/Rastreabilidades.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRvcmlvc01vbnRhZ2VtXFJhc3RyZWFiaWxpZGFkZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/RelatoriosMontagem/Relatorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRvcmlvc01vbnRhZ2VtXFJlbGF0b3Jpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/RelatoriosSoldagem/Rastreabilidades.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRvcmlvc1NvbGRhZ2VtXFJhc3RyZWFiaWxpZGFkZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/RelatoriosSoldagem/RelatorioFrontal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRvcmlvc1NvbGRhZ2VtXFJlbGF0b3Jpb0Zyb250YWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/RelatoriosSoldagem/RelatorioTraseira.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRvcmlvc1NvbGRhZ2VtXFJlbGF0b3Jpb1RyYXNlaXJhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Usuarios/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Usuarios/Novo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTm92by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Usuarios/UsuariosCadastrados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcVXN1YXJpb3NDYWRhc3RyYWRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ConectaSys/Projetos/Conectasys.Portal/Views/Verificacao/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVyaWZpY2FjYW9cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\ConectaSys\JOST.Buslink.WEB\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>False|2023-03-01T19:18:59.2376967Z;True|2023-02-28T22:27:16.3058329-03:00;True|2023-02-28T21:40:07.4272067-03:00;True|2023-02-28T20:07:10.0375404-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
